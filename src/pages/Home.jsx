@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/react-router";
+import { Link } from "react-router-dom";
 import hero from "@/assets/hero.jpg";
 import dish1 from "@/assets/dish-1.jpg";
 import dish2 from "@/assets/dish-2.jpg";
